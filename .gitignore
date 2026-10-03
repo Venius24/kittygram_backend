@@ -132,3 +132,6 @@ dmypy.json
 
 media/
 .media
+
+.env
+*.sqlite3
